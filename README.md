@@ -5,3 +5,4 @@ Tech used in this project:
 - React
 - Axios (to pull data from the TMDB API)
 - Firebase (Firebase Deploy)
+# netflix-clone
